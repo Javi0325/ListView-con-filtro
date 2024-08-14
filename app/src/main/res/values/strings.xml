@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica_Activity_ListView</string>
+    <string-array name="Cosas">
+        <item>Sistemas</item>
+        <item>Mercadotecnia</item>
+        <item>Quimica</item>
+    </string-array>
+    <string-array name="Filtro">
+        <item>Sistemas</item>
+        <item>Mercadotecnia</item>
+        <item>Quimica</item>
+    </string-array>
+</resources>
